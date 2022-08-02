@@ -4,8 +4,7 @@
 
 Bryson Nyamwange, **Software Developer** and **Open Source** enthusiast.
 
-🔭 I am part of the inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
-
+🔭 I am part of the inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> 
 ### ✍️ 
 
 <p>Check out my <a href="https://bryson-portfolio.netlify.app/">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
