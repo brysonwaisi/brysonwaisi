@@ -2,7 +2,7 @@
 
 ### 📖 
 
-Bryson Nyamwange, **Software Developer** and an **Open Source** enthusiast.
+Bryson Nyamwange, **Software Developer** and **Open Source** enthusiast.
 
 🔭 I am part of the inclusive community <a href="http://eddiehub.org">EddieHub</a>!</b> Where we believe Collaboration 1st, Code 2nd!
 
